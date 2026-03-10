@@ -1,6 +1,6 @@
 # Hi, I'm Manish Raj 👋
 
-Machine Learning and Data Science enthusiast with nearly 4 years of experience in SaaS and data-driven problem solving.
+Machine Learning and Data Science enthusiast with nearly 4 years of experience in SaaS products and data-driven problem solving.
 
 I enjoy building intelligent systems that analyze data, detect patterns, and automate decision making.
 
